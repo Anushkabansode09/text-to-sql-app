@@ -22,6 +22,7 @@ into PostgreSQL queries on the Olist Brazilian E-Commerce dataset.
 3. Create `.env` file with your credentials
 4. Load data: `python src/load_data.py`
 5. Run app: `streamlit run src/app.py`
+6. http://localhost:8501/
 
 ## Dataset
 Olist Brazilian E-Commerce — 100K+ orders across 7 tables
